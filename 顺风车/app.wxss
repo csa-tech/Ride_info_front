@@ -1,0 +1,10 @@
+page {
+  background-color: #add8e6;
+  height: 100%;
+  font-size: 32rpx;
+  line-height: 1.6;
+}
+
+.page-body {
+  padding: 40rpx 0;
+}

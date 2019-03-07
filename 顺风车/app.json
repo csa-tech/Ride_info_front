@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/inform/inform",
+    "pages/log/log",
+    "pages/index/index",
+    "pages/confirm/confirm",
+    "pages/success/success"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#BBDEF8",
+    "navigationBarTitleText": "Kevinn_Zou",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#13b2ae",
+    "list": [
+      {
+        "pagePath": "pages/inform/inform",
+        "text": "信息"
+      },
+      {
+        "pagePath": "pages/confirm/confirm",
+        "text": "确认"
+      },
+      {
+        "pagePath": "pages/success/success",
+        "text": "成功"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      }
+    ]
+  }
+}
